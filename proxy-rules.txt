@@ -28,4 +28,3 @@
 
 ! Other
 ||*notion.so
-||*NEwTest
