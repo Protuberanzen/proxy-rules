@@ -1,0 +1,31 @@
+! Youtube
+||ad.doubleclick.net
+||ade.googlesyndication.com
+||fonts.googleapis.com
+||fonts.gstatic.com
+||gc.kis.v2.scr.kaspersky-labs.com
+||googleads.g.doubleclick.net
+||pagead2.googlesyndication.com
+||returnyoutubedislikeapi.com
+||static.doubleclick.net
+||tpc.googlesyndication.com
+||www.gstatic.com
+
+||*googlevideo.com
+||*ggpht.com
+||*ytimg.com
+||l.google.com
+||*youtube.com
+||play.google.com
+||youtubei.googleapis.com
+||youtu.be
+||nhacmp3youtube.com
+||googleusercontent.com
+
+! ChatGPT
+||*chatgpt.com
+||*openai.com
+
+! Other
+||*notion.so
+||*HelloWorld!
