@@ -28,3 +28,4 @@
 
 ! Other
 ||*notion.so
+||*autohotkey.com
