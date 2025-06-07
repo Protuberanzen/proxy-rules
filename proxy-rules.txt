@@ -29,6 +29,7 @@
 !Twitter
 ||*x.com
 ||*twimg.com
+||*t.co
 
 !Instagramm
 ||*instagram.com
