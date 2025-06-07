@@ -26,6 +26,9 @@
 ||*chatgpt.com
 ||*openai.com
 
+!Twitter
+||*x.com/
+
 ! Other
 ||*notion.so
 ||*autohotkey.com
