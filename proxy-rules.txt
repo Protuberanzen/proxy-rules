@@ -37,6 +37,8 @@
 !Discord
 ||*discord.com
 ||*discord.gg
+||*discordapp.com
+||*discordapp.net
 
 ! Other
 ||*notion.so
