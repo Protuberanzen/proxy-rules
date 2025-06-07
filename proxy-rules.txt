@@ -34,6 +34,9 @@
 !Instagramm
 ||*instagram.com
 
+!Discord
+||*discord.com
+
 ! Other
 ||*notion.so
 ||*autohotkey.com
