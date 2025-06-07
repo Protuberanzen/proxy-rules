@@ -27,7 +27,10 @@
 ||*openai.com
 
 !Twitter
-||*x.com/
+||*x.com
+
+!Instagramm
+||*instagram.com
 
 ! Other
 ||*notion.so
