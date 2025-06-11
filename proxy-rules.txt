@@ -21,6 +21,7 @@
 ||youtu.be
 ||nhacmp3youtube.com
 ||googleusercontent.com
+||googleadservices.com 
 
 ! ChatGPT
 ||*chatgpt.com
