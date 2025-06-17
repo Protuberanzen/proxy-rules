@@ -44,3 +44,4 @@
 ! Other
 ||*notion.so
 ||*autohotkey.com
+||*iconarchive.com
