@@ -45,3 +45,4 @@
 ||*notion.so
 ||*autohotkey.com
 ||*iconarchive.com
+||*shrtdb.com
