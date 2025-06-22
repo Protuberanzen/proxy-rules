@@ -46,3 +46,4 @@
 ||*autohotkey.com
 ||*iconarchive.com
 ||*shrtdb.com
+||*clickup.com
