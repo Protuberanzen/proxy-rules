@@ -43,6 +43,7 @@
 
 ! Other
 ||*notion.so
+||*clickup.com
 ||*autohotkey.com
 ||*iconarchive.com
 ||*shrtdb.com
