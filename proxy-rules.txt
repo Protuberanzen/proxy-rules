@@ -29,6 +29,7 @@
 
 ! Grok
 ||*grok.com
+||*x.ai
 
 !Twitter
 ||*x.com
