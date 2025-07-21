@@ -27,6 +27,9 @@
 ||*chatgpt.com
 ||*openai.com
 
+! Grok
+||*grok.com
+
 !Twitter
 ||*x.com
 ||*twimg.com
