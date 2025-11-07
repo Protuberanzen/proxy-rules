@@ -57,3 +57,5 @@
 ||*privateinternetaccess.com
 ||*notebooklm.google.com
 ||*soundcloud.com
+||*patreon.com
+
