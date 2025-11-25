@@ -22,7 +22,6 @@
 ||*nhacmp3youtube.com
 ||*googleusercontent.com
 ||*googleadservices.com
-||*google.dev
 
 ! ChatGPT
 ||*chatgpt.com
@@ -60,6 +59,7 @@
 ||*soundcloud.com
 ||*patreon.com
 ||*runchat.app
+
 
 
 
