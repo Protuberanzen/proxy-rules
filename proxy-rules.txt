@@ -70,6 +70,9 @@
 ||*food4rhino.com
 ||*taiwebs.com
 ||*rutracker.org
+||*rutracker.net
+||*maintracker.org
+
 
 
 
